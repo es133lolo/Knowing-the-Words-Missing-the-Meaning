@@ -26,7 +26,7 @@ Additionally, a supplementary dataset of **3,781 individual Hanja entries** was 
 ## 📊 Structure  
 The dataset is organized as follows:
 <pre><code> Knowing the words Missing the Meaning
-  └── Dataset
+  └── Dataset_csv
       ├── Four-character idioms
       ├── Synonyms
       ├── Antonyms

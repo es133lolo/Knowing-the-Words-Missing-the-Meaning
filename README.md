@@ -1,4 +1,4 @@
-# <p align="center">Knowing the words, Missing the Meaning </p>
+# <p align="center">Knowing the Words, Missing the Meaning </p>
 
 ## ✨ Introduction  
 This benchmark is designed to evaluate the cultural understanding and natural language processing capabilities of large language models based on SinoKorean words and four-character idioms, which are essential linguistic and cultural assets in Korea.  
